@@ -21,10 +21,10 @@
     {
       "identity" : "simd-support",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/schwa/SIMD-Support",
+      "location" : "https://github.com/Cardano-DoubleMe-Me/SIMD-Support",
       "state" : {
-        "revision" : "a7d1f9585c56f27494599b82ca51fb2cf2d0eb57",
-        "version" : "0.1.1"
+        "branch" : "main",
+        "revision" : "0e71367862cd7a7908155c8b2911f8a6b466cc4a"
       }
     },
     {
